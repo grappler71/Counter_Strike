@@ -1,0 +1,19 @@
+{
+    "name": "CSGet.me",
+    "short_name": "CSGet.me",
+    "icons": [
+        {
+            "src": "/img/icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#3a475d",
+    "background_color": "#3a475d",
+    "start_url": "https://csget.me"
+}
